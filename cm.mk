@@ -4,9 +4,6 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration for LG Optimus L9 P760
 $(call inherit-product, device/lge/p760/full_p760.mk)
 
-# This device has NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 PRODUCT_NAME := cm_p760
 PRODUCT_BRAND := lg
 PRODUCT_DEVICE := p760
