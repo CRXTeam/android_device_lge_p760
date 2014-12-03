@@ -1,19 +1,19 @@
 [
     {
         "remote": "github",
-        "repository": "AOSPA-L9/android_device_lge_u2-common",
+        "repository": "CRXTeam/android_device_lge_u2-common",
         "target_path": "device/lge/u2-common",
         "revision": "lollipop"
     },
     {
         "remote": "github",
-        "repository": "AOSPA-L9/android_kernel_lge_u2",
+        "repository": "CRXTeam/android_kernel_lge_u2",
         "target_path": "kernel/lge/u2",
         "revision": "lollipop"
     },
     {
         "remote": "github",
-        "repository": "AOSPA-L9/proprietary_vendor_lge_u2",
+        "repository": "CRXTeam/proprietary_vendor_lge_u2",
         "target_path": "vendor/lge/u2",
         "revision": "lollipop"
     }
